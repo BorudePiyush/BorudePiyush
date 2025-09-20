@@ -69,9 +69,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=BorudePiyush&theme=radical&hide_border=false" height="150px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorudePiyush&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px"/>
-</p>
+
 
 ---
 
