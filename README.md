@@ -52,10 +52,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![JSP/Servlets](https://img.shields.io/badge/JSP%20%2F%20Servlets-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![JSP/Servlets](https://img.shields.io/badge/JSP%20%2F%20Servlets-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
 ### ☁️ Deployment & Tools
