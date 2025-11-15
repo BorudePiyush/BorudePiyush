@@ -75,7 +75,7 @@
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BorudePiyush&icon=2&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=BorudePiyush&icon=2&color=6 />
 </p>
 
 ---
