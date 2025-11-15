@@ -69,15 +69,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=BorudePiyush&theme=radical&hide_border=false" height="150px"/>
 </p>
 
-
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BorudePiyush&icon=2&color=6 />
-</p>
-
 ---
 
 <h3 align="center">⚡ "Code is like humor. When you have to explain it, it’s bad." ⚡</h3>
